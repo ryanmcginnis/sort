@@ -1,3 +1,3 @@
 # sort
 
-Friendly `awk` GUI for sorting comma-limited lists
+Friendly AppleScript-based GUI `awk` sorting
